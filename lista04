@@ -1,0 +1,53 @@
+Lista 04
+
+1. 
+a) P(0) -> P(0) = 0 <= 4, ou seja, T.
+b) P(4) -> P(4) = 4 <= 4, ou seja, T. 
+c) P(6) -> P(6) = 6 <= 4, ou seja, F.
+
+2.
+a) P(orange) = T
+b) P(lemon) = F
+c) P(true) = F
+d) P(false = T
+
+3.
+a) Q(Denver, Colorado) = T
+b) Q(Detroit, Michigan) = F
+c) Q(Massachusetts, Boston) = F
+d) Q(Nova York, Nova York) = T
+
+4.
+a) x = 0
+b) x = 1
+c) x = 1
+
+5. p(x) x = x2
+a) P(0) -> 0^2 = 0, logo, T.
+b) P(1) -> 1^2 = 1, logo, T.
+c) P(2) -> 2^2 = 4, logo, F.
+d) P(-1) -> (-1)^2 = 1, logo, F.
+e) ∃x P(x) -> P(1) = 1 = 1^2 = 1, logo, T.
+f) ∀x P(x) -> P(2) = 2 = 2^2 = 4, logo, F.
+
+6. p(x) (x+1) > 2x
+a) p(0) = 1 > 0, logo, T.
+b) p(-1) = 0 > -2, logo, T.
+c) p(2) = 3 > 4, logo, F.
+d) ∃x p(x) = p(0), logo, T.
+e) ∀x p(x) = p(2), logo, F.
+f) ∃x ~p(x) = p(2), logo, T.
+g) ∀x ~p(x) = p(0), logo, F.
+
+7. 
+a) ∀n ((n+1) > n) = T.
+b) ∃n (2n = 3n) = F.
+c) ∃n (n = -n) = F.
+d) ∀n (n2 >= n = T.
+
+8.
+a) ∃x (x3 = -1) = F
+b) ∃x (x4 < x2) = F
+c) ∀x ((-x)2 = x2) = T
+d) ∀x (2x > x) = T
+
