@@ -1,4 +1,4 @@
-Lista 04
+Lista 04.
 
 1. 
 a) P(0) -> P(0) = 0 <= 4, ou seja, T.
@@ -50,4 +50,3 @@ a) ∃x (x3 = -1) = F
 b) ∃x (x4 < x2) = F
 c) ∀x ((-x)2 = x2) = T
 d) ∀x (2x > x) = T
-
