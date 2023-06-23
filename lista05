@@ -30,9 +30,7 @@ em que a(x): x arrisca e p(x): x petisca.
 
 4-
 (a) As variáveis y e z são as que ocorrem livres em A, já as variáveis que ocorrem ligadas em A são x.
-(b) Não, não existe nenhuma variável em A que apresente ocorrências livres ou ligadas. 
-A variável x ocorre apenas ligada, pois está quantificada existencialmente (∃x). 
-As variáveis y e z ocorrem apenas livres, pois não estão quantificadas.
+(b) Não existe nenhuma variável em A que apresente ocorrências livres ou ligadas. 
 
 5-
 a) Existe um estudante que visitou Dakota do Norte.
