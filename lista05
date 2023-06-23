@@ -1,0 +1,62 @@
+1- 
+(a) ∀x ∃y g(y, x)
+(b) ∀x ∃y (f(y, x) ∧ g(y, x))
+(c) ∀x (∃y g(y, x) → ∃z f(z, x))
+(d) ∃x ∃y (f(x, y) ∧ f(y, e))
+(e) ¬∃x (b(x, _) ∧ s(x, _))
+(f) ¬∃x ∃y ∃z (g(x, y) ∧ f(z, y))
+(g) h(e, p)
+(h) ∃x (h(x, m) ∧ (b(x, c) ∨ s(x, c)))
+
+2-  
+(a) ∀x (b(x) → t(x)) 
+em que b(x): x é um brasileiro e t(x): x é técnico da seleção.
+(b) ∃x (b(x) ∧ v(x)) ∧ ¬∃y (fy) ∧ ¬v(y)) 
+em que b(x): x é brasileiro, f(y): y é finlandês e v(z): z já viu a neve.
+(c) ∀x (h(x) → (s(x) ∨ n(x))) 
+em que h(x): x é ser humano, s(x): x é do hemisfério sul e n(x): x é do hemisfério norte.
+(d) ∃x (h(x) ∧ m(x)) 
+em que h(x): x é ser humano e m(x): x mora na lua.
+(e) ∀x (¬a(x) → ¬p(x))
+em que a(x): x arrisca e p(x): x petisca.
+
+3- 
+(a) Para todo número natural x, x é par.
+(b) Para todo número natural x, existe um número natural y em que y é o sucessor de x.
+(c) Para todo número natural x e para todo número natural y, existe um número natural z em que z é igual a soma de x e y.
+(d) Para todo número natural x e para todo número natural y, se y é o sucessor de x, então x e y são pares.
+(e) Para todo número natural y, existe um número natural x em que x é igual a metade de y.
+(f) Para todo número natural x e para todo número natural y, se x é igual ao dobro de y, então x é par.
+
+4-
+(a) As variáveis y e z são as que ocorrem livres em A, já as variáveis que ocorrem ligadas em A são x.
+(b) Não existe nenhuma variável em A que apresente ocorrências livres ou ligadas. 
+
+5-
+a) Existe um estudante que visitou Dakota do Norte.
+b) Todos os estudantes visitaram Dakota do Norte.
+c) Não existe nenhum estudante que visitou Dakota do Norte.
+d) Existe um estudante que não visitou Dakota do Norte.
+e) Nem todos os estudantes visitaram Dakota do Norte.
+f) Todos os estudantes não visitaram Dakota do Norte.
+
+6-
+a) Para toda pessoa, se ela é um comediante, então ela é divertida.
+b) Para toda pessoa, ela é um comediante e divertida.
+c) Existe pelo menos uma pessoa em que se ela é um comediante, então ela é divertida.
+d) Existe pelo menos uma pessoa que é tanto comediante quanto divertida.
+
+7-
+a) T
+b) T
+c) F
+d) T
+e) T
+f) F
+
+8- 
+a) É uma fórmula válida
+b)
+c) É uma fórmula válida
+d)
+e)
